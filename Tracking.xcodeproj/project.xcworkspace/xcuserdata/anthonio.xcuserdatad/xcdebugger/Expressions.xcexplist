@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "location.horizontalAccuracy">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Entry.init(coder:):Entry.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LocationService.updateLocation(currentLocation:):LocationService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static Store.list.getter:Store.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static Store.list.setter:Store.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Entry.encode(with:):Entry.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MainCell.setData(_:):MainCell.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
